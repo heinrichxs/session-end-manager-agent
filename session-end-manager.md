@@ -631,10 +631,6 @@ if ! git diff --cached --quiet; then
 Documentation: Updated modular docs structure
 Session: $SESSION_FILE
 
-🤖 Generated with Claude Code (https://claude.com/claude-code)
-
-Co-Authored-By: Claude <noreply@anthropic.com>"
-
     git commit -m "$COMMIT_MSG"
 
     BRANCH=$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo "main")
@@ -811,6 +807,7 @@ Before completing session end, verify:
 - [ ] CLAUDE.md links to docs/ folders working
 - [ ] Session summary references correct for deep dives
 - [ ] No broken internal documentation links
+
 
 
 
