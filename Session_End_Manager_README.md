@@ -89,9 +89,6 @@ SESSION_SUMMARY_YYYYMMDD_TOPIC.md
 ```bash
 Session end: [Brief description of session work]
 
-🤖 Generated with Claude Code (https://claude.com/claude-code)
-
-Co-Authored-By: Claude <noreply@anthropic.com>
 ```
 
 ### Advanced Usage
@@ -207,14 +204,9 @@ MIT License - feel free to adapt for your workflow.
 
 Found a way to improve the session-end workflow? Open an issue or submit a PR!
 
-## Related Resources
-
-- [Claude Code Documentation](https://claude.ai/code)
-- [Modular Documentation Structure Guide](link-to-guide)
-- [Multi-AI Orchestration Setup](link-to-article)
-
 ---
 
 **Last Updated**: 2025-11-15
 **Version**: 1.0
 **Tested with**: Claude Code (claude-sonnet-4-5), Git 2.x
+
