@@ -59,12 +59,12 @@ project/
 │   │   ├── service-stack.md       # Infrastructure details
 │   │   └── data-flow.md           # Data flow diagrams
 │   ├── patterns/
-│   │   ├── n8n-patterns.md        # Workflow patterns
+│   │   ├── workflow-patterns.md   # Common workflow patterns
 │   │   ├── api-patterns.md        # API integration patterns
 │   │   └── deployment-patterns.md # Deployment best practices
 │   ├── troubleshooting/
-│   │   ├── n8n-issues.md          # n8n troubleshooting
-│   │   ├── linkedin-api.md        # LinkedIn API issues
+│   │   ├── authentication.md      # Auth troubleshooting
+│   │   ├── database-issues.md     # Database connection issues
 │   │   └── infrastructure.md      # Infrastructure problems
 │   └── deployment/
 │       ├── common-commands.md     # Operational commands
@@ -96,7 +96,7 @@ project/
 
 ### Documentation
 - [Architecture Overview](docs/architecture/overview.md)
-- [n8n Patterns](docs/patterns/n8n-patterns.md)
+- [Workflow Patterns](docs/patterns/workflow-patterns.md)
 - [Troubleshooting](docs/troubleshooting/)
 - [Common Commands](docs/deployment/common-commands.md)
 
@@ -633,4 +633,5 @@ grep -r -i "search term" Claude/sessions/
 
 **Version**: 1.0
 **Last Updated**: 2025-11-15
+
 **License**: MIT
