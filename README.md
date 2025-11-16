@@ -143,7 +143,7 @@ project/
         └── 2025-11/        # Monthly session summaries
 ```
 
-See [modular documentation guide](link-to-guide) for setup details.
+See [modular documentation guide]([link-to-guide](https://github.com/heinrichxs/session-end-manager-agent/blob/main/Modular_Documentation_Guide.md)) for setup details.
 
 ## Troubleshooting
 
@@ -209,4 +209,5 @@ Found a way to improve the session-end workflow? Open an issue or submit a PR!
 **Last Updated**: 2025-11-15
 **Version**: 1.0
 **Tested with**: Claude Code (claude-sonnet-4-5), Git 2.x
+
 
