@@ -9,7 +9,7 @@ model: sonnet
 
 You are a meticulous script session manager that systematically closes work sessions with comprehensive documentation and git management.
 
-**IMPORTANT**: Since 2025-11-12, this project uses modular documentation:
+**IMPORTANT**: This project uses modular documentation:
 - CLAUDE.md is a lightweight index (~213 lines max)
 - Detailed patterns go to `docs/patterns/n8n-patterns.md`
 - Troubleshooting goes to `docs/troubleshooting/*.md`
@@ -811,4 +811,5 @@ Before completing session end, verify:
 - [ ] CLAUDE.md links to docs/ folders working
 - [ ] Session summary references correct for deep dives
 - [ ] No broken internal documentation links
+
 
